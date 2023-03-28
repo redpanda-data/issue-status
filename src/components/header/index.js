@@ -10,7 +10,7 @@ const Title = styled.h1`
 const Logo = styled.img``;
 
 const Header = styled.div`
-  text-align: center;
+  text-align: left;
   margin-bottom: 16px;
 `;
 
